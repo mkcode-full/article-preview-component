@@ -18,6 +18,6 @@ This is a solution to the Article Preview Component challenge on Frontend Mentor
 
 ## 🚀 Live Demo
 
-Live site: (add GitHub Pages link here)
+Live site: (https://mkcode-full.github.io/article-preview-component/)
 
 ## 📁 Project structure
